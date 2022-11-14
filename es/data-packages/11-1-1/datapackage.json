@@ -12,32 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Año"
-          },
-          {
-            "name": "Dwelling Type",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Formal Dwelling",
-                "Informal Dwelling",
-                "Other",
-                ""
-              ]
-            },
-            "title": "Dwelling Type"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage (%)",
-                ""
-              ]
-            },
-            "title": "Units"
           },
           {
             "name": "Value",
