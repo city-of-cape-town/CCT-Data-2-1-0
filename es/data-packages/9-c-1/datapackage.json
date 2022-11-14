@@ -12,49 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Año"
-          },
-          {
-            "name": "Service Type",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Use the internet",
-                "Use the internet at home",
-                "Use Internet at work/educational institution",
-                "Use Internet on a mobile device",
-                "Use Internet at Other location",
-                ""
-              ]
-            },
-            "title": "Service Type"
-          },
-          {
-            "name": "Race",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Black African",
-                "Coloured",
-                "Indian/Asian",
-                "White",
-                ""
-              ]
-            },
-            "title": "Race"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage (%) with Service",
-                "Percentage (%) by Racial Group",
-                ""
-              ]
-            },
-            "title": "Units"
           },
           {
             "name": "Value",
