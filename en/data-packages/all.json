@@ -57,71 +57,6 @@
       "title": "Tourism direct GDP as a proportion of total GDP and in growth rate"
     },
     {
-      "path": "8-3-1/data.csv",
-      "name": "8-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Gender",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Male",
-                "Female",
-                ""
-              ]
-            },
-            "title": "Gender"
-          },
-          {
-            "name": "Sector",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Manufacturing",
-                "Construction",
-                "Wholesale and Retail Trade",
-                "Transport, Storage and Communication",
-                "Financial",
-                "Community, Social and Personal Services",
-                ""
-              ]
-            },
-            "title": "Sector"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage of Total Informal Employment",
-                "Percentage by Gender",
-                "Percentage by Sector",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of informal employment in total employment, by sector and sex"
-    },
-    {
       "path": "1-2-1/data.csv",
       "name": "1-2-1",
       "profile": "tabular-data-resource",
@@ -4006,6 +3941,30 @@
         ]
       },
       "title": "Annual growth rate of real GDP per capita"
+    },
+    {
+      "path": "8-3-1/data.csv",
+      "name": "8-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of informal employment in total employment, by sector and sex"
     },
     {
       "path": "4-6-1/data.csv",

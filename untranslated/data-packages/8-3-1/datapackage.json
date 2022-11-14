@@ -12,45 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Gender",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Male",
-                "Female",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sector",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Manufacturing",
-                "Construction",
-                "Wholesale and Retail Trade",
-                "Transport, Storage and Communication",
-                "Financial",
-                "Community, Social and Personal Services",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage of Total Informal Employment",
-                "Percentage by Gender",
-                "Percentage by Sector",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
