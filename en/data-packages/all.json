@@ -304,15 +304,15 @@
             "title": "Year"
           },
           {
-            "name": "Units",
+            "name": "Unit",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage (%)",
+                "Percent (%)",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

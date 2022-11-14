@@ -15,11 +15,11 @@
             "type": "integer"
           },
           {
-            "name": "Units",
+            "name": "Unit",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage (%)",
+                "Percent (%)",
                 ""
               ]
             }
