@@ -3,56 +3,6 @@
   "title": "All indicators",
   "resources": [
     {
-      "path": "8-9-1/data.csv",
-      "name": "8-9-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Tourism Site",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Table Mountain Aerial Cableway",
-                "Table Mountain Park: Cape of Good hope",
-                "Kisternbosch National Botanical Gardens",
-                "Boulders Beach",
-                "Roben Island",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total GVA in Rands",
-                "Percentage (%) of Total GVA",
-                "Total of Tourism Employment",
-                "Percentage (%) of Total Tourism employment",
-                "Total Tourism GVA by Site",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Tourism direct GDP as a proportion of total GDP and in growth rate"
-    },
-    {
       "path": "1-2-1/data.csv",
       "name": "1-2-1",
       "profile": "tabular-data-resource",
@@ -4933,6 +4883,28 @@
         ]
       },
       "title": "Proportion of individuals using the Internet"
+    },
+    {
+      "path": "8-9-1/data.csv",
+      "name": "8-9-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Tourism direct GDP as a proportion of total GDP and in growth rate"
     },
     {
       "path": "9-a-1/data.csv",
