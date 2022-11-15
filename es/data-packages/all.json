@@ -189,59 +189,24 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Año"
-          },
-          {
-            "name": "Income category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Relative low income",
-                "Absolute low income",
-                ""
-              ]
-            },
-            "title": "Income category"
-          },
-          {
-            "name": "Sub-category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Before housing costs",
-                "After housing costs",
-                ""
-              ]
-            },
-            "title": "Sub-category"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
+                "Adults",
                 "Children",
-                "Pensioners",
-                "Working-age adults",
                 ""
               ]
             },
             "title": "Age"
           },
           {
-            "name": "Unnamed: 5",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Unnamed: 5"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
