@@ -162,7 +162,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percent (%)",
+                "percentage (%)",
                 ""
               ]
             },
