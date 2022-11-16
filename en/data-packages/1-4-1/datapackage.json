@@ -16,17 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "percentage (%)",
-                ""
-              ]
-            },
-            "title": "Unit"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
