@@ -1,7 +1,9 @@
 ﻿composite_breakdown_label: ''
 computation_units: Percentage (%)
 copyright: ''
-data_footnote: ''
+data_footnote: >-
+  'Other' dwellings are understood to include either traditional structures or
+  more precarious shelter like tents or make-shift structures.
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -23,7 +25,9 @@ graph_target_lines: []
 graph_title: global_indicators.11-1-1-title
 graph_titles: []
 graph_type: bar
-indicator_available: ''
+indicator_available: >-
+  Proportion of population of Cape Town Metropolitan area living in formal,
+  informal or 'other' (inadequate) dwellings
 indicator_name: global_indicators.11-1-1-title
 indicator_number: 11.1.1
 indicator_tabs:
