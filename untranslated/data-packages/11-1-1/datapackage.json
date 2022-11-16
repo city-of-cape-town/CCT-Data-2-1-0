@@ -15,26 +15,14 @@
             "type": "integer"
           },
           {
-            "name": "Dwelling Type",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Formal dwellings",
-                "Informal dwellings",
-                "other",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent of Total Population",
-                "Percent of formal dwellings",
-                "Percent of informal dwellings",
-                "Percent of other",
+                "Percentage of Total Population living in informal dwellings and other",
+                "Percentage of formal dwellings",
+                "Percentage of informal dwellings",
+                "Percentage of other",
                 ""
               ]
             }
