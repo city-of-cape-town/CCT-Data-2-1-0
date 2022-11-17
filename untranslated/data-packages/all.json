@@ -272,16 +272,6 @@
             "type": "integer"
           },
           {
-            "name": "Unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage (%)",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
