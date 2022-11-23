@@ -23,7 +23,9 @@ graph_target_lines: []
 graph_title: global_indicators.1-2-1-title
 graph_titles: []
 graph_type: bar
-indicator_available: Proportion of households living below the upper bound poverty line
+indicator_available: >-
+  CCT indicator: Proportion of households living below the upper bound poverty
+  line
 indicator_name: global_indicators.1-2-1-title
 indicator_number: 1.2.1
 indicator_tabs:
