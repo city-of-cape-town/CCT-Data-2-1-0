@@ -12,11 +12,23 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Waste type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total waste generated per year",
+                "Waste received at landfill sites per year",
+                "Waste diverted from landfill sites per year",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }
