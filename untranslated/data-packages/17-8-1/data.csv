@@ -1,6 +1,31 @@
-Year,Value
-2014,71.0
-2015,74.1
-2016,76.7
-2017,78.8
-2018,79.7
+Year,Access type,Value
+2014,Use the internet,71.0
+2014,Use internet at home,27.6
+2014,Use internet at work/educational institution,29.9
+2014,Use internet on a mobile device,60.3
+2014,Use internet at Other location,7.5
+2015,Use the internet,74.1
+2015,Use internet at home,25.8
+2015,Use internet at work/educational institution,28.5
+2015,Use internet on a mobile device,64.3
+2015,Use internet at Other location,7.3
+2016,Use the internet,76.7
+2016,Use internet at home,27.9
+2016,Use internet at work/educational institution,28.6
+2016,Use internet on a mobile device,65.1
+2016,Use internet at Other location,6.4
+2017,Use the internet,78.8
+2017,Use internet at home,31.3
+2017,Use internet at work/educational institution,25.5
+2017,Use internet on a mobile device,69.0
+2017,Use internet at Other location,4.9
+2018,Use the internet,79.7
+2018,Use internet at home,30.5
+2018,Use internet at work/educational institution,25.8
+2018,Use internet on a mobile device,67.8
+2018,Use internet at Other location,10.3
+2019,Use the internet,80.0
+2019,Use internet at home,25.0
+2019,Use internet at work/educational institution,31.4
+2019,Use internet on a mobile device,72.3
+2019,Use internet at Other location,23.0

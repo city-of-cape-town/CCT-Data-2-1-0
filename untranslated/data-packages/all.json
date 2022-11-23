@@ -271,6 +271,20 @@
             "type": "integer"
           },
           {
+            "name": "Access type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Use the internet",
+                "Use internet at home",
+                "Use internet at work/educational institution",
+                "Use internet on a mobile device",
+                "Use internet at Other location",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
