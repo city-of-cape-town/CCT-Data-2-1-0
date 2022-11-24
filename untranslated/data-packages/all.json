@@ -509,12 +509,17 @@
             "type": "integer"
           },
           {
-            "name": "Age",
+            "name": "Food Insecurity Experience Scale (FIES)",
             "type": "string",
             "constraints": {
               "enum": [
-                "Adults",
-                "Children",
+                "Never",
+                "Seldom",
+                "Sometimes",
+                "Often",
+                "Always",
+                "Not applicable",
+                "Uspecified",
                 ""
               ]
             }
