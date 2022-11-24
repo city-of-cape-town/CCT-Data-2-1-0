@@ -1,13 +1,14 @@
-Year,Waste type,Value
-2014,Total waste generated per year,644641
-2014,Waste received at landfill sites per year,454169
-2014,Waste diverted from landfill sites per year,190472
-2015,Total waste generated per year,2168458
-2015,Waste received at landfill sites per year,1812185
-2015,Waste diverted from landfill sites per year,356273
-2016,Total waste generated per year,2522887
-2016,Waste received at landfill sites per year,1929511
-2016,Waste diverted from landfill sites per year,593376
-2017,Total waste generated per year,2345024
-2017,Waste received at landfill sites per year,1848114
-2017,Waste diverted from landfill sites per year,496910
+﻿"Year","Waste type","Value"
+"2014","","644641"
+"2014","Waste received at landfill sites per year","454169"
+"2014","Waste diverted from landfill sites per year","190472"
+"2015","","2168458"
+"2015","Waste received at landfill sites per year","1812185"
+"2015","Waste diverted from landfill sites per year","356273"
+"2016","","2522887"
+"2016","Waste received at landfill sites per year","1929511"
+"2016","Waste diverted from landfill sites per year","593376"
+"2017","","2345024"
+"2017","Waste received at landfill sites per year","1848114"
+"2017","Waste diverted from landfill sites per year","496910"
+"","",""
