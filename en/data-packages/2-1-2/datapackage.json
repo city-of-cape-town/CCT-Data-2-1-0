@@ -12,8 +12,25 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Food Insecurity Experience Scale (FIES)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Never",
+                "Seldom",
+                "Sometimes",
+                "Often",
+                "Always",
+                "Not applicable",
+                "Uspecified",
+                ""
+              ]
+            },
+            "title": "Food Insecurity Experience Scale (FIES)"
           },
           {
             "name": "Value",
