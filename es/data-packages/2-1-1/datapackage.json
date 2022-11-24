@@ -16,6 +16,21 @@
             "title": "Año"
           },
           {
+            "name": "Prevelance of undernourishment",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Never",
+                "Seldom/Sometimes",
+                "Often/Always",
+                "Not applicable",
+                "Unspecified",
+                ""
+              ]
+            },
+            "title": "Prevelance of undernourishment"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

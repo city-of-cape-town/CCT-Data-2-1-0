@@ -306,6 +306,20 @@
             "type": "integer"
           },
           {
+            "name": "Prevelance of undernourishment",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Never",
+                "Seldom/Sometimes",
+                "Often/Always",
+                "Not applicable",
+                "Unspecified",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
