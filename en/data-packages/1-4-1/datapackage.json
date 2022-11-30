@@ -12,8 +12,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Service type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "water",
+                "Sanitation",
+                "Refuse disposal",
+                "Energy source ",
+                ""
+              ]
+            },
+            "title": "Service type"
           },
           {
             "name": "Value",
