@@ -1,31 +1,49 @@
-Year,Prevelance of undernourishment,Value
-2014,Never,39.2
-2014,Seldom/Sometimes,8.5
-2014,Often/Always,4.5
-2014,Not applicable,46.9
-2014,Unspecified,1
-2015,Never,38
-2015,Seldom/Sometimes,10
-2015,Often/Always,3.6
-2015,Not applicable,47.9
-2015,Unspecified,0.5
-2016,Never,37.4
-2016,Seldom/Sometimes,10.1
-2016,Often/Always,3.8
-2016,Not applicable,48.2
-2016,Unspecified,0.5
-2017,Never,38.9
-2017,Seldom/Sometimes,9.3
-2017,Often/Always,2.4
-2017,Not applicable,49.1
-2017,Unspecified,0.2
-2018,Never,40.4
-2018,Seldom/Sometimes,10.6
-2018,Often/Always,1.8
-2018,Not applicable,46.8
-2018,Unspecified,0.4
-2019,Never,47.18
-2019,Seldom/Sometimes,11.58
-2019,Often/Always,1.5
-2019,Not applicable,39.67
-2019,Unspecified,0.07
+Year,Food Insecurity Experience Scale (FIES),Value
+2014,,14.3
+2014,Never,74.5
+2014,Seldom,6.5
+2014,Sometimes,11.6
+2014,Often,5.4
+2014,Always,1.1
+2014,Not applicable,0.3
+2014,Uspecified,0.6
+2015,,14.3
+2015,Never,75.2
+2015,Seldom,7.8
+2015,Sometimes,10.9
+2015,Often,4.1
+2015,Always,1.1
+2015,Not applicable,0.1
+2015,Uspecified,0.8
+2016,,14.3
+2016,Never,73.0
+2016,Seldom,8.2
+2016,Sometimes,13.0
+2016,Often,4.6
+2016,Always,0.9
+2016,Not applicable,0.0
+2016,Uspecified,0.4
+2017,,14.3
+2017,Never,77.1
+2017,Seldom,7.0
+2017,Sometimes,10.9
+2017,Often,3.6
+2017,Always,1.1
+2017,Not applicable,0.0
+2017,Uspecified,0.3
+2018,,14.3
+2018,Never,76.9
+2018,Seldom,7.3
+2018,Sometimes,12.1
+2018,Often,2.6
+2018,Always,0.6
+2018,Not applicable,0.3
+2018,Uspecified,0.2
+2019,,14.3
+2019,Never,76.6
+2019,Seldom,8.6
+2019,Sometimes,12.3
+2019,Often,1.5
+2019,Always,0.3
+2019,Not applicable,0.7
+2019,Uspecified,0.1
