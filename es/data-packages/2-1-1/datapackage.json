@@ -16,19 +16,21 @@
             "title": "Año"
           },
           {
-            "name": "Prevelance of undernourishment",
+            "name": "Food Insecurity Experience Scale (FIES)",
             "type": "string",
             "constraints": {
               "enum": [
                 "Never",
-                "Seldom/Sometimes",
-                "Often/Always",
+                "Seldom",
+                "Sometimes",
+                "Often",
+                "Always",
                 "Not applicable",
-                "Unspecified",
+                "Uspecified",
                 ""
               ]
             },
-            "title": "Prevelance of undernourishment"
+            "title": "Food Insecurity Experience Scale (FIES)"
           },
           {
             "name": "Value",
